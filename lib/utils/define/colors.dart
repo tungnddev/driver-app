@@ -1,0 +1,44 @@
+import 'dart:ui';
+
+class ColorUtils {
+  static const Color colorText = Color(0xFF000000);
+  static const Color grayBG = Color.fromRGBO(235, 235, 245, 1);
+  static Color get blueTheme => Color(0xFF457DDE);
+  static const Color bgHomeItemList = Color(0xFFC2D1C9);
+  static const Color orangeHome = Color(0xFFFFB134);
+  static const Color greenHome = Color(0xFF54A868 );
+  static const Color blueHome = Color(0xFF6681C9);
+  static const Color redHome = Color(0xFFFF735A);
+  static const Color colorNotification = Color(0xFFCF4B05);
+  static const Color colorHomeActivateAvatar = Color(0xFFBCCF05);
+  static const Color colorBlueButton = Color(0xFF72C2FD);
+  static const Color colorLogin = Color(0xFFC2D1C9);
+  static const Color colorButtonLogin = Color(0xFFC5D812);
+  static const Color colorDivider = Color(0x40707070);
+  static const Color grayProfile = Color(0x5F000000);
+  static const Color grayUnSelectedTab = Color(0xFFDCDCDC);
+  static const Color grayBackButton = Color(0xFFD3D3D3);
+  static const Color redNotAvailable = Color(0xFFFD8272);
+  static const Color colorBorderNote = Color(0xFFDBDBDB);
+  static const Color colorTextHint = Color(0xFFBCBCBC);
+  static const Color colorApplyButton = Color(0xFF66DB7D);
+  static const Color orangeApplyToSelected = Color(0xFFFFE693);
+  static const Color redPendingConfirm = Color(0xFFFF8234);
+  static const Color redDeclineButton = Color(0xFFFFA2A2);
+  static const Color greenDisable = Color(0xFFAAD4B4);
+  static const Color redDisable = Color(0xFFFFC19A);
+  static const Color borderBold = Color(0xFF5A5A5A);
+  static const Color dayDisable = Color(0xFFEDEDED);
+  static const Color greenSelectedTab = Color.fromRGBO(84, 168, 104, 0.7);
+  static const Color greenUnSelectedTab = Color.fromRGBO(84, 168, 104, 0.5);
+  static const Color yellowSelectedTab = Color(0xFFFDF372);
+  static const Color borderTabCalendar = Color(0xFF707070);
+  static const Color grayPackingSlip = Color(0xFFBFBFBF);
+  static const Color colorUnLoadList = Color(0xFFFDD272);
+  static const Color colorHeaderPackingSlip = Color(0xFF808080);
+  static const Color blueDropOff = Color.fromRGBO(71, 161, 253, 0.5);
+  static const Color pinkPickUp = Color.fromRGBO(252, 79, 79, 0.5);
+  static const Color colorGrayUnderLine = Color(0xFFC7C7C7);
+  static const Color colorRedPrice = Color(0xFFAC2A2A);
+  static const Color colorNote = Color(0xFF6A6A6A);
+}
