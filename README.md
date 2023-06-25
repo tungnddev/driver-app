@@ -1,4 +1,4 @@
-##Driver App With Flutter Clean Architecture
+## Driver App With Flutter Clean Architecture
 A UI-only driver app with google map, custom camera, horizontal list view calendar, form builder,...
 ### Main Feature
 * `Calendar` - Show work by day
@@ -33,24 +33,35 @@ A UI-only driver app with google map, custom camera, horizontal list view calend
 * Build ios `flutter build ios`
 ### Screenshots
 ##### Main
-<img src="./screenshot/login.png" alt="drawing" width="120"/>
-<img src="./screenshot/home.png" alt="drawing" width="120"/>
-<img src="./screenshot/profile.png" alt="drawing" width="120"/>
-<img src="./screenshot/notification.png" alt="drawing" width="120"/>
+<p float="left">
+<img src="./screenshot/login.png" alt="drawing" width="185"/>
+<img src="./screenshot/home.png" alt="drawing" width="185"/>
+<img src="./screenshot/profile.png" alt="drawing" width="185"/>
+<img src="./screenshot/notification.png" alt="drawing" width="185"/>
+</p>
+
 ##### Calendar
-<img src="./screenshot/calendar.png" alt="drawing" width="120"/>
-<img src="./screenshot/calendar_pending.png" alt="drawing" width="120"/>
-<img src="./screenshot/confirm_route.png" alt="drawing" width="120"/>
+<p float="left">
+<img src="./screenshot/calendar.png" alt="drawing" width="185"/>
+<img src="./screenshot/calendar_pending.png" alt="drawing" width="185"/>
+<img src="./screenshot/confirm_route.png" alt="drawing" width="185"/>
+</p>
+
 ##### Router
-<img src="./screenshot/maps.png" alt="drawing" width="120"/>
-<img src="./screenshot/google_map_2.png" alt="drawing" width="120"/>
-<img src="./screenshot/route_list.png" alt="drawing" width="120"/>
-<img src="./screenshot/order_detail.png" alt="drawing" width="120"/>
+<p float="left">
+<img src="./screenshot/maps.png" alt="drawing" width="185"/>
+<img src="./screenshot/google_map_2.png" alt="drawing" width="185"/>
+<img src="./screenshot/route_list.png" alt="drawing" width="185"/>
+<img src="./screenshot/order_detail.png" alt="drawing" width="185"/>
+</p>
+
 ##### Finish order
-<img src="./screenshot/payment.png" alt="drawing" width="120"/>
-<img src="./screenshot/capture.png" alt="drawing" width="120"/>
-<img src="./screenshot/camera.png" alt="drawing" width="120"/>
-<img src="./screenshot/rate.png" alt="drawing" width="120"/>
+<p float="left">
+<img src="./screenshot/payment.png" alt="drawing" width="185"/>
+<img src="./screenshot/capture.png" alt="drawing" width="185"/>
+<img src="./screenshot/camera.png" alt="drawing" width="185"/>
+<img src="./screenshot/rate.png" alt="drawing" width="185"/>
+</p>
 
 
 ### License
